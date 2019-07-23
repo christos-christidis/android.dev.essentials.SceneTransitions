@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Scene Transitions</string>
+    <string name="one">Go to scene 1</string>
+    <string name="plain_button">Plain button</string>
+    <string name="two">Go to scene 2</string>
+</resources>
